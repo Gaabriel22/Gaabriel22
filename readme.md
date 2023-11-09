@@ -14,7 +14,8 @@ Você pode me encontrar aqui também 👇
 
 <div>
 
-<a href="https://www.linkedin.com/in/gabriel-amaral-b1256426b/" target="_blank">
+<a href="https://www.linkedin.com/in/www.linkedin.com/in/
+gabrielamaral22/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
 </a>
 
