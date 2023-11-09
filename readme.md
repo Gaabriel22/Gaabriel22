@@ -2,8 +2,6 @@ Meu perfil profissional no Github
 
 # Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
-<img src="https://komarev.com/ghpvc/?username=Gaabriel22&color=blue" alt="Profile views" /> 
-
 🚀 Atualmente embarcando na jornada de me tornar um Desenvolvedor Full Stack Javascript apaixonado por transformar linhas de código em soluções incríveis. Estou em constante aprendizado e buscando oportunidades para aplicar e aprimorar minhas habilidades.
 
 📘 Atualmente estudando as nuances do desenvolvimento web, estou determinado a criar experiências digitais envolventes e funcionais. Meu entusiasmo pela tecnologia me impulsiona a enfrentar desafios de frente, sempre buscando soluções inovadoras.
