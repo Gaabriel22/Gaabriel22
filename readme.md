@@ -2,9 +2,9 @@ Meu perfil profissional no Github
 
 # Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
-🚀 Atualmente embarcando na jornada de me tornar um Desenvolvedor Full Stack Javascript apaixonado por transformar linhas de código em soluções incríveis. Estou em constante aprendizado e buscando oportunidades para aplicar e aprimorar minhas habilidades.
+🚀 Embarquei na emocionante jornada de me tornar um Desenvolvedor Full Stack Javascript, apaixonado por transformar códigos em soluções incríveis. Meu comprometimento com o aprendizado contínuo me guia, enquanto busco ansiosamente oportunidades para aplicar e aprimorar minhas habilidades.
 
-📘 Atualmente estudando as nuances do desenvolvimento web, estou determinado a criar experiências digitais envolventes e funcionais. Meu entusiasmo pela tecnologia me impulsiona a enfrentar desafios de frente, sempre buscando soluções inovadoras.
+📘 Navegando pelas complexidades do desenvolvimento web, estou empenhado em criar experiências digitais tanto envolventes quanto funcionais. O fascínio pela tecnologia me impulsiona a abraçar desafios de frente, sempre em busca de soluções inovadoras.
 
 💼 Aberto a oportunidades profissionais! Procuro meu primeiro emprego como desenvolvedor e estou animado para contribuir em projetos significativos.
 
