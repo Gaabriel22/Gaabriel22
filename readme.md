@@ -40,6 +40,6 @@ Tecnologias que eu uso no momento:
 
 Tecnologias que estou buscando conhecimento:
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 
 
