@@ -6,7 +6,7 @@ Meu perfil profissional no Github
 
 📘 Navegando pelas complexidades do desenvolvimento web, estou empenhado em criar experiências digitais tanto envolventes quanto funcionais. O fascínio pela tecnologia me impulsiona a abraçar desafios de frente, sempre em busca de soluções inovadoras.
 
-💼 Aberto a oportunidades profissionais! Procuro meu primeiro emprego como desenvolvedor e estou animado para contribuir em projetos significativos.
+💼 Atualmente atuando como Auxiliar de TI, com o foco em tecnologia e inovação, e sempre aberto a novas oportunidades para expandir minhas habilidades e contribuir com projetos significativos
 
 🌐 Conecte-se comigo e vamos construir o futuro do desenvolvimento juntos!
 
