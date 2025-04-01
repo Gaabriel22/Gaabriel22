@@ -6,8 +6,6 @@ Meu perfil profissional no Github
 
 📘 Navegando pelas complexas ondas do desenvolvimento web, estou determinado a entregar experiências digitais cativantes com funcionalidade. A tecnologia me motiva a abraçar desafios de forma corajosa e a optar por soluções criativas sempre que possível.
 
-💼 Já seguindo a carreira como Auxiliar de TI, atualmente estou trabalhando em projetos significativos, contribuindo para a transformação das soluções internas.
-
 🌐 Conecte-se comigo e vamos expandir nossos horizontes para desenvolver o futuro do desenvolvimento juntos!
 
 Você pode me encontrar aqui também 👇
@@ -40,6 +38,7 @@ Tecnologias que eu uso no momento:
 
 Tecnologias que estou buscando conhecimento:
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
 
