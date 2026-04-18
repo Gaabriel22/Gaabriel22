@@ -64,14 +64,6 @@ const gabriel = {
   />
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/APIs%20REST-0f172a?style=flat-square" alt="APIs REST" />
-  <img src="https://img.shields.io/badge/PostgreSQL-1d4ed8?style=flat-square" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/React%20%2B%20TypeScript-14b8a6?style=flat-square" alt="React e TypeScript" />
-  <img src="https://img.shields.io/badge/Node.js-166534?style=flat-square" alt="Node.js" />
-  <img src="https://img.shields.io/badge/AI%20Automation-0f766e?style=flat-square" alt="AI Automation" />
-</div>
-
 ---
 
 ## GitHub
