@@ -85,12 +85,12 @@ const gabriel = {
 
 <div align="center">
   <a href="mailto:gabrielvieira2205@gmail.com">
-    <img src="https://img.shields.io/badge/gabrielvieira2205%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email de Gabriel Amaral" />
+    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email de Gabriel Amaral" />
   </a>
   <a href="https://www.linkedin.com/in/gabrielamaral22/">
-    <img src="https://img.shields.io/badge/gabrielamaral22-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Gabriel Amaral" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Gabriel Amaral" />
   </a>
   <a href="https://gabrielamaral.vercel.app/">
-    <img src="https://img.shields.io/badge/gabrielamaral.vercel.app-0f766e?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio de Gabriel Amaral" />
+    <img src="https://img.shields.io/badge/Portfolio-0f766e?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio de Gabriel Amaral" />
   </a>
 </div>
