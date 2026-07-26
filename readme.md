@@ -92,8 +92,6 @@ entram conforme o problema pede.
   />
 </p>
 
-<sub>Dados públicos do GitHub, atualizados automaticamente.</sub>
-
 ## `./contato`
 
 Tem um produto web para construir ou um processo manual pedindo automação?
