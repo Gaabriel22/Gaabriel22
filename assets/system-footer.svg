@@ -1,0 +1,22 @@
+<svg width="1200" height="120" viewBox="0 0 1200 120" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Fim da transmissão</title>
+  <desc id="desc">Rodapé escuro com assinatura de Gabriel Amaral.</desc>
+  <defs>
+    <linearGradient id="footerSurface" x1="0" y1="0" x2="1200" y2="120" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#070B0D" />
+      <stop offset="1" stop-color="#0B1718" />
+    </linearGradient>
+    <linearGradient id="footerLine" x1="80" y1="0" x2="1120" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#36D1C4" stop-opacity="0" />
+      <stop offset="0.22" stop-color="#36D1C4" stop-opacity="0.8" />
+      <stop offset="0.78" stop-color="#36D1C4" stop-opacity="0.8" />
+      <stop offset="1" stop-color="#36D1C4" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="120" rx="18" fill="url(#footerSurface)" />
+  <path d="M80 32H1120" stroke="url(#footerLine)" />
+  <g font-family="JetBrains Mono, Consolas, monospace">
+    <text x="600" y="70" text-anchor="middle" fill="#D7F7F4" font-size="16" letter-spacing="2">GABRIEL AMARAL</text>
+    <text x="600" y="94" text-anchor="middle" fill="#718184" font-size="12">FULL STACK DEVELOPMENT  |  AUTOMATION  |  INTEGRATION</text>
+  </g>
+</svg>

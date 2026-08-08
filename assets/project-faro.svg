@@ -1,0 +1,23 @@
+<svg width="1200" height="240" viewBox="0 0 1200 240" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Faro Energia</title>
+  <desc id="desc">Landing page fictícia de alta conversão desenvolvida por Gabriel Amaral.</desc>
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="1200" y2="240" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#080C0F" />
+      <stop offset="1" stop-color="#0B1718" />
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="1198" height="238" rx="16" fill="url(#surface)" stroke="#183B3B" stroke-width="2" />
+  <rect x="36" y="34" width="54" height="5" rx="2.5" fill="#36D1C4" />
+  <g font-family="JetBrains Mono, Consolas, monospace">
+    <text x="36" y="86" fill="#D7F7F4" font-size="30" font-weight="700">FARO ENERGIA</text>
+    <text x="36" y="120" fill="#8FA1A4" font-size="16">Landing de conversão com simulador, formulário, SEO e segurança.</text>
+    <text x="36" y="154" fill="#718184" font-size="14">NEXT.JS 16  |  REACT 19  |  TYPESCRIPT  |  ZOD  |  LIGHTHOUSE CI</text>
+    <text x="36" y="204" fill="#36D1C4" font-size="14">github.com/Gaabriel22/faro-energia-landing</text>
+
+    <text x="1124" y="70" text-anchor="end" fill="#718184" font-size="13" letter-spacing="2">PROJETO FICTÍCIO</text>
+    <text x="1124" y="127" text-anchor="end" fill="#D7F7F4" font-size="42" font-weight="700">97 | 100</text>
+    <text x="1124" y="158" text-anchor="end" fill="#718184" font-size="12">PERFORMANCE  |  ACCESSIBILITY</text>
+    <text x="1124" y="192" text-anchor="end" fill="#36D1C4" font-size="14">SEO 100  |  BEST PRACTICES 100</text>
+  </g>
+</svg>
