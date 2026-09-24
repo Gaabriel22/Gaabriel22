@@ -45,7 +45,7 @@ Atuo com interfaces, APIs, bancos de dados, integrações e automações. Minha 
 
 <div align="center">
   <p><strong>Ecossistema e outras experiências</strong></p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,nuxtjs,angular,nestjs,mysql,mongodb,python,go&amp;theme=dark&amp;perline=11" alt="HTML, CSS, JavaScript, Vue, Nuxt, Angular, NestJS, MySQL, MongoDB, Python e Go" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,nuxtjs,angular,nestjs,mysql,mongodb,python,go,php,laravel&amp;theme=dark&amp;perline=13" alt="HTML, CSS, JavaScript, Vue, Nuxt, Angular, NestJS, MySQL, MongoDB, Python, Go, PHP e Laravel" />
 </div>
 
 ## Ferramentas
